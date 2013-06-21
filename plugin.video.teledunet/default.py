@@ -5,7 +5,7 @@ from xbmcswift2 import Plugin
 from resources.lib.teledunet.api import TeledunetAPI
 
 # Setup global variables
-PLUGIN_NAME = 'Teledunet.com'
+PLUGIN_NAME = 'Riad'
 PLUGIN_ID = 'plugin.video.teledunet'
 CACHE_DURATION_MINUTES = 20
 
